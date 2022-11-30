@@ -12,7 +12,7 @@
 # L'alumnat, un cop acabat el seu enviament, ajudarà al grup
 
 def quadrat(): # alumn@ 1 Arnau A
-  
+  a =1
   
 def triangle(): # alumn@ 2 Pau A
   
