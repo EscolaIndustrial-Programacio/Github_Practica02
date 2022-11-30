@@ -13,6 +13,7 @@
 
 def quadrat(): # alumn@ 1 Arnau A
   a =1
+
   
 def triangle(): # alumn@ 2 Pau A
   
@@ -21,7 +22,8 @@ def rectangle(): # alumn@ 3 Oriol A
  
  
 def paralellogram(): # alumn@ 4 Alex A
-  
+  Prova enviament
+
   
 def rombe(): # alumn@ 5 Adam O
    
